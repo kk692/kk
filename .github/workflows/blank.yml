@@ -1,0 +1,36 @@
+
+
+HTML:
+
+<!DOCTYPE html>
+<html> 
+  <head> 
+    <title>My Website</title> 
+  </head> 
+  <body> 
+    <h1>Welcome To My Website!</h1> 
+    <p>This is the homepage of my website.</p> 
+  </body> 
+</html>
+
+CSS:
+
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    color: #666;
+    font-size: 16px;
+    line-height: 20px;
+    padding: 0 20px;
+    text-align: center;
+}
